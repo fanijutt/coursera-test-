@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>irfan work</title>
+  
+    <link rel="shortcut icone" href="logo-html.png">
+</head>
+<body>
+    <section>
+        <div>
+            <h2>irfan= H2 </h2>
+        <P>
+        </P> Préparation de chantier :
+            <P>
+            <P>Comprend l'approvisionnement du matériel y compris la protection des sols de l’appartement y compris parties communes 
+
+
+            </P>               <P> Préparation des supports :</P>
+        <P>Grattage des cloques égrenage du plafond</P> <Em>
+            Application d’une couche d'enduit et ponçage
+        </Em>
+<Em>Application d’une couche d'enduit et ponçage</Em>
+<P>Une couche d'impression</P>
+<STrong>
+<P>Peinture :</P></STrong>
+<P>Deux couches de peinture blanc mat</P>
+<P>Replis du chantier y compris nettoyage</P> 
+<P>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+     Iusto, commodi impedit? Dicta sunt soluta perspiciatis officia, a
+     nimi maxime adipisci pariatur dolorum optio atque aperiam odit distinctio qui, quidem iure eos.</P>
+
+                                                              </P></div><p></p>
+                                                          <img src="logo-html.jpg" height="500"
+                                                               alt="logo-html">
+                                                                     </p>
+        <h3> listes HABIB= H3 </h3>
+       <ul>
+      <div>
+            <table border="2" width="100%"> 
+                <caption><header><h1>pakistani awam</h1></header></caption>
+           <thead>
+            <tr>
+                <th>zalilat</th>
+                <th>nuksan</th> 
+                <th>azzab</th>
+                <th>pershani</th>
+            
+            </tr>
+        
+           </thead>
+           <tbody>
+            <tr>
+                <td>1</td> 
+                <td>1</td>
+                <td>1</td>
+                <td>1</td>
+
+
+            </tr>
+            <tr>
+                <td>    1</td> 
+                <td>    1</td>
+                <td>    1</td>
+                <td>    1</td>
+
+
+            </tr>
+
+           </tbody>
+            </table>
+        </div>
+        <li>irfqn </li>
+        <li>irfqn1 </li>
+        <li>irfqn2 </li>
+       </ul> 
+       <ol>
+        <li> irfqn</li>
+        <li> irfqn1</li>
+           <ul>
+            <li>irfqn </li>
+                <li> irfqn2 </li> 
+            </ul>
+        <li> irfqn2</li>
+       </ol>
+    </div>
+        
+        </div>
+        <h1>irfan </h1>
+        </div>
+    </section>
+    
+</body>
+</html>
+<div>
+    <a href="html://htmlcheatsheet:com"
+    target="_blank">html cheet sheet</a>
+    <br>
+    <a href="https://apcpedagogie.com/les-differents-formats-de-carte-mere/"target="_blank">html cheet sheet</a>
+
+</div>
+-thim-body-primary-color: #ffb60
